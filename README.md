@@ -21,7 +21,9 @@ An example showing how to call Rust functions from Node.js using FFI.
 
 ## Resources
 
-For a detailed explanation of these examples and more, check out my Medium article: [Understanding Rust and Its Integration with Node.js & Front-End Applications](https://medium.com/@bserefaniuk)
+For a detailed explanation of these examples and more, check out my Medium article:
+
+[Understanding Rust and Its Integration with Node.js & Front-End Applications](https://medium.com/@bserefaniuk/understanding-rust-and-its-integration-with-node-js-front-end-applications-2da705a0bf1b)
 
 ## Connect with Me
 
