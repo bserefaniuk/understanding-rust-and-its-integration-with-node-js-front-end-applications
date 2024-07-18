@@ -1,0 +1,12 @@
+[package]
+name = "wasm_be"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bohdan Serefaniuk <work.bserefaniuk@gmail.com>"]
+license = "MIT"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2.92"

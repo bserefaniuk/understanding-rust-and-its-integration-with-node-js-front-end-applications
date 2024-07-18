@@ -1,0 +1,13 @@
+[package]
+name = "ffi"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bohdan Serefaniuk <work.bserefaniuk@gmail.com>"]
+license = "MIT"
+
+[lib]
+crate-type = ["dylib"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
